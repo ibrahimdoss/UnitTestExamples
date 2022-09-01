@@ -1,0 +1,8 @@
+Bir tam sayının asal çarpanlarını(prime factors) bulan kodu ve unit testini yazalım. Tasarımsal olarak bir PrimeFactors sınıfı ve bu sınıfın integer bir sayıyı parametre olarak alan ve dönüş değeri olarak da integer listesi kullanan generate isimli bir methodu olması bekleniyor.
+
+Örnek kullanım; 
+
+PrimeFactors.generate(12) —> {2, 2, 3}
+PrimeFactors.generate(5) —> {5}
+PrimeFactors.generate(20) —> {2, 2, 5}
+Örnek çözümü github üzerinden paylasılan kodlarda ve kodun adım adım gectigi safaları src/resources/TemelSeviyeJUnit_Odev_PrimetFactors.MD altında bulabilirsiniz.

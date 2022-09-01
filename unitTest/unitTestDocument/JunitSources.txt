@@ -1,0 +1,7 @@
+https://junit.org/junit5/docs/current/user-guide/
+
+https://github.com/junit-team/junit5/
+
+https://stackoverflow.com/questions/tagged/junit5
+
+https://www.martinfowler.com/bliki/Xunit.html
